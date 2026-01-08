@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 const double Pi = 3.14159265;
-const double yercekimi_sabit[]={3.7, 8.87, 9.80, 3.71, 24.79, 10.44, 8.69, 11.15};//sabitleri güncelle
+const double yercekimi_sabit[]={3.7, 8.87, 9.80, 3.71, 24.79, 10.44, 8.69, 11.15};
 const char *gezegen_isim[]={"Merkur", "Venus", "Dunya", "Mars", "Jupiter", "Saturn", "Uranus", "Neptun"};
 const int gezegen_sayisi = 8;
 //deneyleri sağlayan fonksiyonlar
